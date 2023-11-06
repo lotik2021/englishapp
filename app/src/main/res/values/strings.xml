@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Foreign</string>
+    <string name="are_you_sure_want_to_delete_these_items_it_cannot_be_recovered">Are you sure want to delete these items (it cannot be recovered)?</string>
+    <string name="warning">Warning</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="search_your_words">Search your words</string>
+    <string name="icon">icon</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="no_words_added">No Words </string>
+    <string name="click_on_the_compose_button_to_add">Tap \(✎\) to create word</string>
+    <string name="data">Data</string>
+    <string name="import_data">Import Data</string>
+    <string name="app_settings">App Settings</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+</resources>
